@@ -1,26 +1,17 @@
-# A list of burner email providers
+# Lists of free and burner email providers
 
-Throw away email addresses (burner emails) are great for single use signups where you would like the content but rather not give up your email.
+Lists of email providers that are either free providers like gmail or often used as 
+disposable email addresses.
 
-I'm okay with people using burner email addresses to get my free content, I just need to be able to filter them out of my list so it doesn't drive up bounces and hurt deliverability. 
+## Free email domains
 
-Please send a PR with any new ones you find. 
+`free-emails.txt` is a list of domains of free email providers, from 
+[tbrianjones](github.com/tbrianjones)'s [Gist](https://gist.github.com/tbrianjones/5992856/)
 
-## APIs
+## Burner email addresses
 
-### Free
+A list of burner email addresses, which is the origin of this repo:
+[https://github.com/wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers)
 
-* [Disposable](https://github.com/0x19/disposable)
-* [Disposable Email Detector](https://www.disposable-email-detector.com)
-* [Verifier](https://verifier.meetchopra.com/)
-
-## Libraries
-
-### Elixir
-
-* [Burnex](https://github.com/Betree/burnex)
-
-### Go
-
-* [DED](https://github.com/namreg/ded)
+Check it out, it also offers some handy API's and libraries for email validation.
 
